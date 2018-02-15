@@ -16,7 +16,10 @@ KNN算法的步骤如下：<br>
 <br>
 <br>
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝<br>
-下述文件中，KNN_Classifier.py从最简单的KNN分类器引入，KNN_dating.py利用KNN算法判断约会对象是否符合心意，最后KNN_handWritting.py利用KNN算法改进了手写体识别过程
+下述文件中<br>
+KNN_Classifier.py从最简单的KNN分类器引入<br>
+KNN_dating.py利用KNN算法判断约会对象是否符合心意<br>
+最后KNN_handWritting.py利用KNN算法改进了手写体识别过程<br>
 <br>
 <br>
 <br>
